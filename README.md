@@ -1,4 +1,39 @@
 <h2>Hey 👋, I'm <a href="https://ramazanatalay.com/">Ramazan</a></h2>
+
+<p align="center">
+<br/>
+<a href="https://twitter.com/ramazanatalay">
+  <img alt="RamazanAtalay's Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
+</a>
+<a href="https://www.linkedin.com/in/ramazanatalay">
+  <img alt="RamazanAtalay's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+<a href="https://www.instagram.com/ramazanatalay">
+  <img alt="RamazanAtalay's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
+</a>
+<a href="https://open.spotify.com/user/ramazanatalay">
+  <img alt="RamazanAtalay's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+</a>
+<br>
+</p>
+
+```yaml
+name: Ramazan Atalay
+located_in: Toronto, Canada
+from: Eagean
+job: DevOps Consultant
+education: ["Ph.D. in Physics", "Master's in Physics", "Bachelor's in Physics"]
+company: Ramazan Atalay
+past experiences: 
+  - ["DevOps Consultant", "deop", "Canada", "2022-present"]
+
+fields_of_interests: ["DevOps", "GitHub Actions"]
+technical_background: ["Self-thought DevOps Engineer", "Optimization", "Nonlinear System", "Optical Characterizations", "Cancer Research", "BioPhysics", "Solar Cells"]
+currently_learning: ["DevOps"]
+will_learn: ["Web3"]
+hobbies: ["Movies", "Wood Working", "Outdoor Sports", "Gaming"]
+```
+
 <p>I'm currently a DevOps consultant at <strong><a href="https://www.deop.ca/">deop</a></strong> and formerly at <strong><a href="https://aws.amazon.com/">AWS</a></strong> based in 🌁 Seattle. 
 I am working on some side projects, learning a coding in Python, and trying to conquer the world as victom of the Decree-Laws no. 667</p>
 <!-- <p><a href="https://stanleylim.me"><img src="https://img.shields.io/badge/-stanleylim.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a>  -->
